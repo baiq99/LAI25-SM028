@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>yosiabatch2-148-_png.rf.718b3229e82569324183e66bc9613a67.jpg</filename>
+	<path>yosiabatch2-148-_png.rf.718b3229e82569324183e66bc9613a67.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>116</xmin>
+			<xmax>182</xmax>
+			<ymin>256</ymin>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>motor</tag>
+		</tags>
+	</metadata>
+</annotation>
