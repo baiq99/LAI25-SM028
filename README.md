@@ -13,7 +13,7 @@ Proyek ini bertujuan membangun sistem deteksi otomatis untuk memantau penggunaan
 
 Dataset yang digunakan dalam proyek ini terdiri dari citra pengendara sepeda motor yang menggunakan dan tidak menggunakan helm. Dataset ini digunakan untuk proses pelatihan dan evaluasi model deteksi helm berbasis YOLO.
 
-🔗 **Link Dataset**: [https://universe.roboflow.com/ta-zwiyos/helmonzy/dataset/5](https://universe.roboflow.com/ta-zwiyos/helmonzy/dataset/5)
+🔗 **Link Dataset**: [Dataset](https://universe.roboflow.com/ta-zwiyos/helmonzy/dataset/5)
 
 ---
 
@@ -111,7 +111,7 @@ streamlit run app.py
 
 ### 🌍 Untuk Mengakses Versi Online:
 
-🔗 **Streamlit App**: [https://deteksi-helm-yolo-fxiahcgcgzkmep9yzi4rhx.streamlit.app/](https://deteksi-helm-yolo-fxiahcgcgzkmep9yzi4rhx.streamlit.app/)
+🔗 **Streamlit App**: [streamlit.app](https://deteksi-helm-yolo-fxiahcgcgzkmep9yzi4rhx.streamlit.app/)
 
 ---
 
