@@ -1,3 +1,4 @@
+
 # 🚨 Helmet Detection System for Motorcycle Riders Using Deep Learning
 
 ## 📝 Project Overview
@@ -12,7 +13,7 @@ Proyek ini bertujuan membangun sistem deteksi otomatis untuk memantau penggunaan
 
 Dataset yang digunakan dalam proyek ini terdiri dari citra pengendara sepeda motor yang menggunakan dan tidak menggunakan helm. Dataset ini digunakan untuk proses pelatihan dan evaluasi model deteksi helm berbasis YOLO.
 
-🔗 **Link Dataset**: \[https://universe.roboflow.com/ta-zwiyos/helmonzy/dataset/5]
+🔗 **Link Dataset**: [https://universe.roboflow.com/ta-zwiyos/helmonzy/dataset/5](https://universe.roboflow.com/ta-zwiyos/helmonzy/dataset/5)
 
 ---
 
@@ -57,6 +58,61 @@ Langkah-langkah utama dalam solusi ini meliputi:
 
 ---
 
+## ⚙️ Setup Environment
+
+### 🔧 1. Clone Project from GitHub
+
+```bash
+git clone https://github.com/baiq99/LAI25-SM028.git
+cd LAI25-SM028
+```
+
+### 🐍 2. Create Conda Environment (Recommended)
+
+```bash
+conda create -n helmet-detection python=3.10 -y
+conda activate helmet-detection
+pip install -r requirements.txt
+```
+
+### 🧪 3. Install with Python Virtualenv (Alternative)
+
+```bash
+python -m venv venv
+source venv/bin/activate  # or .\venv\Scripts\activate on Windows
+pip install -r requirements.txt
+```
+
+---
+
+## 🚀 How to Run the Project
+
+### 📘 Run Training or Inference Notebook
+
+Open the following notebook in Jupyter or Colab:
+
+```bash
+notebook.ipynb
+```
+
+> Notebook ini mencakup pelatihan model YOLO, evaluasi mAP, dan visualisasi hasil deteksi.
+
+---
+
+## 🌐 Streamlit Deployment
+
+Aplikasi deteksi helm juga dapat diakses melalui antarmuka web berbasis Streamlit.
+
+### 🧪 Untuk Menjalankan secara Lokal:
+
+```bash
+streamlit run app.py
+```
+
+### 🌍 Untuk Mengakses Versi Online:
+
+🔗 **Streamlit App**: [https://deteksi-helm-yolo-fxiahcgcgzkmep9yzi4rhx.streamlit.app/](https://deteksi-helm-yolo-fxiahcgcgzkmep9yzi4rhx.streamlit.app/)
+
+---
 
 
-# LAI25-SM028
