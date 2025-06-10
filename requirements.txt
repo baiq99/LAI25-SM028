@@ -1,0 +1,14 @@
+PIL
+albumentations==2.0.8
+collections
+cv2
+glob
+matplotlib==3.10.0
+numpy==2.0.2
+os
+random
+roboflow
+shutil
+sklearn
+tqdm==4.67.1
+ultralytics
