@@ -12,3 +12,4 @@ shutil
 sklearn
 tqdm==4.67.1
 ultralytics
+streamlit
