@@ -3,7 +3,10 @@
 
 ## 📝 Project Overview
 
-HelmViz adalah sebuah sistem deteksi otomatis penggunaan helm yang dikembangkan dengan memanfaatkan teknologi deep learning, tepatnya menggunakan YOLOv8. Proyek ini bertujuan untuk meningkatkan keselamatan berkendara dengan mendeteksi secara real-time apakah pengendara motor menggunakan helm atau tidak. Sistem dapat menerima input berupa gambar, video, maupun webcam (dalam tahap pengembangan) dan menampilkan hasil deteksi dalam bentuk bounding box serta label “helm”, “non-helm”, dan “motor”.
+HelmViz adalah sebuah sistem deteksi otomatis penggunaan helm yang dikembangkan dengan memanfaatkan teknologi deep learning, tepatnya menggunakan YOLOv8. Proyek ini bertujuan untuk meningkatkan keselamatan berkendara dengan mendeteksi secara real-time apakah pengendara motor menggunakan helm atau tidak. 
+
+Sistem dapat menerima input berupa gambar, video, maupun webcam (dalam tahap pengembangan) dan menampilkan hasil deteksi dalam bentuk bounding box serta label “helm”, “non-helm”, dan “motor”.
+
 Diharapkan HelmViz dapat digunakan oleh instansi seperti Dishub maupun sekolah untuk mendukung upaya edukasi, pemantauan, serta pengawasan keselamatan berkendara.
 
 ---
