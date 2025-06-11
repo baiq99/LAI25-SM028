@@ -3,9 +3,8 @@
 
 ## 📝 Project Overview
 
-Tingginya angka kecelakaan lalu lintas di Indonesia, khususnya yang melibatkan sepeda motor, menjadi permasalahan serius yang memerlukan perhatian khusus. Salah satu faktor penyebab tingginya tingkat fatalitas kecelakaan adalah pelanggaran lalu lintas seperti tidak menggunakan helm pelindung kepala.
-
-Proyek ini bertujuan membangun sistem deteksi otomatis untuk memantau penggunaan helm oleh pengendara sepeda motor di jalan raya menggunakan metode **object detection berbasis deep learning**, dengan harapan dapat mendukung upaya pengawasan lalu lintas yang lebih efisien dan sistematis, serta menjadi langkah awal menuju implementasi sistem **e-Tilang otomatis berbasis AI**.
+HelmViz adalah sebuah sistem deteksi otomatis penggunaan helm yang dikembangkan dengan memanfaatkan teknologi deep learning, tepatnya menggunakan YOLOv8. Proyek ini bertujuan untuk meningkatkan keselamatan berkendara dengan mendeteksi secara real-time apakah pengendara motor menggunakan helm atau tidak. Sistem dapat menerima input berupa gambar, video, maupun webcam (dalam tahap pengembangan) dan menampilkan hasil deteksi dalam bentuk bounding box serta label “helm”, “non-helm”, dan “motor”.
+Diharapkan HelmViz dapat digunakan oleh instansi seperti Dishub maupun sekolah untuk mendukung upaya edukasi, pemantauan, serta pengawasan keselamatan berkendara.
 
 ---
 
