@@ -111,7 +111,7 @@ streamlit run app.py
 
 ### 🌍 Untuk Mengakses Versi Online:
 
-🔗 **Streamlit App**: [streamlit.app](https://deteksi-helm-yolo-fxiahcgcgzkmep9yzi4rhx.streamlit.app/)
+🔗 **Streamlit App**: [streamlit.app](https://helmviz.streamlit.app/)
 
 ---
 
